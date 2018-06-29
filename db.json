@@ -13,5 +13,15 @@
   },
     "receipt": {
     "amount": 10000
+  },
+  "inventory": {
+    "terminalNumber": "10002489",
+    "receivingNumber": "000585749",
+    "bank": "1",
+    "cardNumber" : "6104334589665272",
+    "date": "97/04/08-15:03:48",
+    "issueTracking": "3226452",
+    "resourceTracking": "1241562",
+    "inventory": "19080000"
   }
 }
