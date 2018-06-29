@@ -15,7 +15,7 @@
     "amount": 10000
   },
   "inventory": {
-    "terminalNumber": "10002489",
+    terminalNumber: "10002489",
     "receivingNumber": "000585749",
     "bank": "1",
     "cardNumber" : "6104334589665272",
